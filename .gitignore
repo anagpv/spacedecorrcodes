@@ -1,0 +1,16 @@
+# Data files — hosted on Zenodo
+*.csv
+*.RData
+*.Rdata
+*.mat
+*.txt
+
+# Simulated datasets
+output/
+simulated_datasets/
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
