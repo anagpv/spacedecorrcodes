@@ -6,7 +6,9 @@ This repository contains all R scripts to reproduce the analyses and figures.
 ## Data
 
 All data files are available on Zenodo: [https://doi.org/10.5281/zenodo.20275986 ](https://doi.org/10.5281/zenodo.20276257) 
+
 Raw Lupus nephritis data: https://doi.org/10.6084/m9.figshare.c.7373860  
+
 Raw NSCLC CosMx data: https://brukerspatialbiology.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/nsclc-ffpe-dataset/
 
 Download all data files and set the paths at the top of each script before running.
