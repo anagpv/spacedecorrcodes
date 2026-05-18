@@ -28,7 +28,7 @@ library(spacedecorr)
 library(Giotto)
 
 # Get estimates from real data
-#load("/home/avasconc/RA-Ali/Dissertation/Lung5-3data.Rdata")
+# load("Lung5-3data.Rdata")
 # data <- fulldata[fulldata$cell_type == "macrophage",]
 # est_realdata <- do.call(rbind, lapply(38:1017, function(i){
 #   data$genei <- data[,..i]
