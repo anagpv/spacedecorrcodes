@@ -1,11 +1,11 @@
 # SpaceDecorr Analysis
 
-Reproducibility code for Vasconcelos, Ana Gabriela, et al. ["Accounting for Spatial Correlation in Graphical Analysis of Spatial Transcriptomics Data."](https://www.biorxiv.org/content/10.1101/2025.07.23.666450v1) bioRxiv (2025): 2025-07.
+Reproducibility code for Vasconcelos, Ana Gabriela, et al. ["Accounting for Spatial Structure in Network Analysis of Spatial Transcriptomics Data."](https://www.biorxiv.org/content/10.1101/2025.07.23.666450v1) bioRxiv (2025): 2025-07.
 This repository contains all R scripts to reproduce the analyses and figures.
 
 ## Data
 
-All data files are available on Zenodo: [DOI link]  
+All data files are available on Zenodo: https://doi.org/10.5281/zenodo.20275986  
 Raw Lupus nephritis data: https://doi.org/10.6084/m9.figshare.c.7373860  
 Raw NSCLC CosMx data: https://brukerspatialbiology.com/products/cosmx-spatial-molecular-imager/ffpe-dataset/nsclc-ffpe-dataset/
 
