@@ -32,7 +32,7 @@ remotes::install_github("anagpv/spacedecorr")
 - BioGRID v4.4.245 (`BIOGRID-ALL-4.4.245.tab3.zip`), STRING v12, MSigDB
 - TRRUST (`trrust_rawdata.human.tsv`), DoRothEA (confidence A–C, from the R package), ReMap (`ReMap_ChIP-seq.gmt`)
 
-**Intermediate data**: fitted models, correlations and simulation results are on Zenodo ([doi:10.5281/zenodo.20276257](https://doi.org/10.5281/zenodo.20276257)), so figures can be reproduced without refitting.
+**Intermediate data**: fitted models, correlations and simulation results are on Zenodo ([doi:10.5281/zenodo.23841454](https://doi.org/10.5281/zenodo.23841454)), so figures can be reproduced without refitting.
 
 ## Running the code
 
